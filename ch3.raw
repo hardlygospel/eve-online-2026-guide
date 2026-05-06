@@ -1,0 +1,644 @@
+# Chapter 3 — Ships & ISK
+
+## 🚢 Ship Progression
+
+<div align="center">
+<img src="https://images.evetech.net/types/24698/render?size=256" alt="The Drake — every new player's milestone ship" width="280" />
+</div>
+
+
+
+### The Ship Size Ladder
+
+```
+Rookie Ship (free)
+    |
+Frigate (T1) → Destroyer (T1)
+    |               |
+Cruiser (T1)    Interdictor / Command Destroyer
+    |
+Battlecruiser (T1) → Command Ship (T2)
+    |
+Battleship (T1)
+    |
+Capital Ships (Carrier, Dreadnought, Force Auxiliary, Supercarrier, Titan)
+```
+
+### Tech Levels Explained
+
+| Tech Level | Description | Cost Range |
+|---|---|---|
+| T1 | Basic ships — cheap, accessible, good starting point | 1M – 100M ISK |
+| T2 | Specialised, powerful, require advanced skills | 30M – 500M ISK |
+| Faction/Pirate | Enhanced T1 stats, rare drops or LP purchases | 50M – 1B+ ISK |
+| T3 Cruiser (Strategic) | Modular, extremely powerful, can lose skills on death | 500M – 2B+ ISK |
+| T3 Destroyer | Flexible role destroyer | 50M – 200M ISK |
+| Capital | Only in null/low sec, massive power | 5B – 100B+ ISK |
+
+### Recommended Progression Path
+
+**Phase 1 — New Player (0–30 days)**
+- Frigate → Destroyer → Cruiser
+- Stay in T1, learn your weapons and tank
+- Suggested: Caldari Drake path or Gallente Vexor path
+
+**Phase 2 — Getting Comfortable (1–3 months)**
+- T1 Battlecruiser (Drake, Hurricane, Prophecy, Myrmidon)
+- Start exploring T2 modules (they matter more than T2 ships)
+- Consider faction frigates for PvP (Dramiel, Worm, Garmur)
+
+**Phase 3 — Serious ISK (3–6 months)**
+- T1 Battleship for L4 missions
+- HAC (Heavy Assault Cruiser) for PvP
+- Consider Marauder or T3 Cruiser for endgame PvE
+
+**Phase 4 — Endgame (6 months+)**
+- Marauders (Golem, Paladin, Vargur, Kronos) for maximum L4/Abyss income
+- T3 Strategic Cruisers
+- Capital ships (requires corporation support)
+
+---
+
+
+## 🔧 Fittings & Fitting Philosophy
+
+<div align="center">
+<img src="https://images.evetech.net/types/24702/render?size=256" alt="The Hurricane — one of EVE's most versatile ships to fit" width="280" />
+</div>
+
+
+
+### The Golden Rules of Fitting
+
+1. **Fit for purpose** — a mission ship and a PvP ship are completely different
+2. **Never underfill CPU or Powergrid** — every fitting should be tight
+3. **T2 modules over faction for most slots** — T2 is usually 80% of faction performance for 10% of the cost
+4. **Always cap stable or have a plan for when cap runs out**
+5. **Overloading kills modules** — use Thermodynamics skill and use it deliberately
+
+### Module Slots Explained
+
+**High Slots:** Weapons, cloaks, utility (energy vampires/neutralisers, remote reps)
+
+**Medium Slots:** Shields, tackle (scramblers, webbers), cap boosters, sensor boosters, MWD/AB
+
+**Low Slots:** Armour, damage mods, speed mods, cap power relays
+
+**Rig Slots:** Permanent modifications (can't be removed without destroying them) — use wisely
+
+### Key Module Types
+
+| Module | Purpose |
+|---|---|
+| Afterburner (AB) | Speed boost, doesn't increase signature |
+| Microwarpdrive (MWD) | Massive speed, blooms signature (makes you easier to hit) |
+| Warp Scrambler | Prevents target warping away (1 point) |
+| Warp Disruptor | Longer range point (1 point) |
+| Stasis Webifier | Slows target — critical for catching fast ships |
+| Sensor Dampener | Reduces target lock range and scan resolution |
+| ECM | Jams target — breaks lock randomly |
+| Energy Neutraliser | Drains enemy capacitor |
+| Remote Shield/Armour Rep | Repair allies in fleet |
+| Damage Control | Massive bonus to all resistances — fit this always |
+
+### Fitting Tools
+
+- **PyFA** — the industry standard offline ship fitter. Simulates exact stats with your skills
+- **EVE Fitting Tool (EFT)** — older but still used
+- In-game fitting tool — use for quick checks
+
+---
+
+
+## 🛸 Proven Ship Fits
+
+<div align="center">
+<img src="https://images.evetech.net/types/17715/render?size=256" alt="The Gila — Abyssal Deadspace meta ship" width="280" />
+</div>
+
+
+
+These fits are real, widely used, and effective in 2026. Adjust for your skill level as needed. All assume T2 modules unless noted.
+
+### Drake — PvE Mission Runner (New Player)
+
+```
+[Drake, L3/L4 Mission Drake]
+
+Ballistic Control System II
+Ballistic Control System II
+Damage Control II
+
+Large Shield Extender II
+Large Shield Extender II
+Adaptive Invulnerability Field II
+Thermic Dissipation Field II
+Caldari Navy Shield Boost Amplifier
+
+Heavy Missile Launcher II x6
+Drone Link Augmentor I
+
+Medium Core Defence Field Extender I x3
+
+Hammerhead II x5
+```
+
+**Role:** Run level 3 and early L4 missions safely. Tank is excellent, missiles are consistent. ~30–50M ISK/hour.
+
+---
+
+### Vexor Navy Issue — Null-Sec Ratting
+
+```
+[Vexor Navy Issue, Null Sec Ratting]
+
+Drone Damage Amplifier II x4
+Drone Damage Amplifier II
+
+500MN Cold-Gas Enduring Microwarpdrive
+Large Shield Extender II
+Large Shield Extender II
+Omnidirectional Tracking Link II (Optimal Range Script)
+
+Drone Link Augmentor II
+Drone Link Augmentor II
+
+Medium Drone Speed Augmentor II
+Medium Drone Speed Augmentor II
+Medium Drone Durability Enhancer II
+
+Ogre II x5
+```
+
+**Role:** Clear null-sec anomalies with sentry drones. AFK-able after you warp in and deploy. 80–120M ISK/hour.
+
+---
+
+### Gila — Abyssal Deadspace T3/T4
+
+```
+[Gila, T3/T4 Abyss]
+
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+
+Large Shield Extender II
+Large Shield Extender II
+Adaptive Invulnerability Field II
+Thermal Dissipation Amplifier II
+Republic Fleet Gyrostabilizer (or 5th LSE)
+50MN Cold-Gas Enduring Microwarpdrive
+
+Heavy Missile Launcher II x5
+Rapid Light Missile Launcher II
+
+Medium Anti-Thermal Screen Reinforcer II
+Medium Anti-EM Screen Reinforcer II
+Medium Core Defence Field Extender II
+
+Caldari Navy Hookbill Infiltrator (faction drones or T2 Mediums)
+```
+
+**Role:** Run T3/T4 Abyssal Deadspace. Adjust resist modules to filament type. 80–150M ISK/hour.
+
+---
+
+### Hurricane — PvP Armour Brawler
+
+```
+[Hurricane, Armour Brawl Fleet]
+
+Gyrostabilizer II
+Gyrostabilizer II
+Damage Control II
+800mm Rolled Tungsten Compact Plates
+Energised Adaptive Nano Membrane II
+Energised Adaptive Nano Membrane II
+
+50MN Cold-Gas Enduring Microwarpdrive
+Warp Scrambler II
+Stasis Webifier II
+
+425mm AutoCannon II x6
+Medium Neut II
+
+Medium Ancillary Armor Repairer (Nanite Repair Paste)
+Medium Trimark Armor Pump II x2
+
+Hobgoblin II x5
+```
+
+**Role:** Small-gang or fleet PvP brawler. Get in close, web them, apply full autocannon DPS. Use the MAAR in tight spots.
+
+---
+
+### Astero — Exploration + Combat
+
+```
+[Astero, Exploration PvP]
+
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+
+5MN Cold-Gas Enduring Microwarpdrive
+Relic Analyser II
+Data Analyser II
+Warp Scrambler II
+Stasis Webifier II
+
+Covert Ops Cloaking Device II
+Sisters Expanded Probe Launcher (Sisters Combat Scanner Probes)
+
+Small Ancillary Armor Repairer
+Small Armor Repairer II
+
+Hobgoblin II x5
+Acolyte II x5
+```
+
+**Role:** Scan down relic/data sites in null and wormhole space. Can kill other explorers you catch. Cloak lets you travel safely.
+
+---
+
+### Paladin — L4 Mission Marauder
+
+```
+[Paladin, L4 Mission Marauder]
+
+Tachyon Beam Laser II x4
+Bastion Module I
+Drone Link Augmentor II
+
+Sensor Booster II (Scan Resolution Script)
+Cap Recharger II x2
+Tracking Computer II (Optimal Range Script)
+
+Pithum A-Type Armor Repairer (or T2 Large)
+Damage Control II
+Capacitor Power Relay II x2
+Heat Sink II x4
+
+Large Capacitor Control Circuit II x3
+
+Curator II x5 (Sentry Drones)
+```
+
+**Role:** Bastion in, activate repair, Beam everything from 70km+. Lasers mean zero ammo cost. 80–120M ISK/hour in L4. Use multiple Tachyon beams for maximum damage.
+
+---
+
+
+## 💰 Ways to Make ISK
+
+<div align="center">
+<img src="https://images.evetech.net/types/12005/render?size=256" alt="The Ishtar — the ISK-per-hour king of null-sec" width="280" />
+</div>
+
+
+
+### Tier List Overview
+
+| Method | ISK/Hour | Skill Required | Risk | Notes |
+|---|---|---|---|---|
+| Null-sec ratting (Ishtar/VNI) | 80–150M | Medium | Medium | Very popular |
+| L4 Missions | 50–100M | Medium | Low | High-sec safe |
+| Wormhole sleepers | 100–500M+ | High | High | Big variance |
+| Abyssal Deadspace T4/T5 | 100–300M | High | Medium | Very popular 2026 |
+| Incursions | 100–200M | Low | Low | Need fleet |
+| Trading (station) | Unlimited | Low | None | Time intensive |
+| PI (Planetary Interaction) | 20–100M | Low | None | Passive |
+| Exploration (null/WH) | 50–200M+ | Low | Medium | Variance |
+| Mining (moon/ice) | 30–80M | Low | Low | AFK friendly |
+| Pochven content | 100–300M | High | High | Triglavian space |
+| Manufacturing | Variable | High | Low | Market dependent |
+
+---
+
+### ⛏️ Mining
+
+<div align="center">
+<img src="https://images.evetech.net/types/17478/render?size=256" alt="Retriever Mining Barge" width="260" />
+</div>
+
+
+
+Mining is the backbone of EVE's economy. Every ship hull, module, and structure starts as ore.
+
+**Types of Mining:**
+
+- **Asteroid Mining** — basic ore in belts, low ISK but simple. Good starter income.
+- **Ice Mining** — slower, requires Ice Harvester modules, sells for consistent ISK (used for POS fuel and PLEX)
+- **Moon Mining** — corporation activity, requires moon drill structures, extremely lucrative
+- **Gas Huffing** — harvest gas in wormholes and null sec for T3 manufacturing
+
+**Mining Ships:**
+1. Venture (frigate, free from career agents) — start here
+2. Procurer / Retriever / Covetor (barges)
+3. Skiff / Mackinaw / Hulk (exhumers, T2)
+4. Orca (industrial command ship, boosts fleet)
+5. Rorqual (capital, null sec only, enormous yield)
+
+**Pro Tip:** Never mine alone in low/null sec. Join a mining fleet with an Orca booster — you'll mine 40–60% faster.
+
+---
+
+### 🎯 Mission Running
+
+<div align="center">
+<img src="https://images.evetech.net/types/638/render?size=256" alt="Raven Battleship — L4 mission benchmark" width="260" />
+</div>
+
+
+
+Agents in stations give combat missions — kill specific NPCs, deliver items, or escort ships.
+
+**Mission Levels:**
+- **L1** — tutorial level, 500K–2M ISK/hour
+- **L2** — beginner, 5–15M ISK/hour
+- **L3** — intermediate, 20–40M ISK/hour, cruiser/battlecruiser recommended
+- **L4** — main endgame, 50–100M+ ISK/hour, battleship required
+- **L5** — low-sec, extreme difficulty, 200M+ ISK/hour, rarely done solo
+
+**L4 Mission Meta (2026):**
+- **Golem** (Caldari Marauder) — highest efficiency, uses Bastion module to greatly boost tank and DPS
+- **Paladin** (Amarr Marauder) — laser variant, no ammo costs
+- **Rattlesnake** (Pirate Battleship) — drones + missiles, very beginner-friendly for L4
+- **Raven Navy Issue** — strong budget option before Marauder skills
+
+**Loyalty Points (LP):**
+Every mission gives LP with the agent's faction. LP is converted to faction items via the LP store — **this is where the real money is.** Some LP stores pay 1,000–2,000 ISK per LP. Research which LP stores are most valuable before grinding.
+
+---
+
+### 🔭 Exploration
+
+<div align="center">
+<img src="https://images.evetech.net/types/33468/render?size=256" alt="Astero — exploration and relic hunting" width="260" />
+</div>
+
+
+
+Exploration involves scanning down hidden sites with probes and running them for rewards.
+
+**Site Types:**
+- **Relic sites** — hack containers for modules, BPCs, ancient materials (most valuable)
+- **Data sites** — similar to relic, lower value but useful
+- **Combat anomalies** — rat-filled sites for ISK and escalations
+- **Wormholes** — unknown space with massive rewards
+
+**Required Skills:**
+- Astrometrics (scanning)
+- Survey (relic/data sites)
+- Hacking (data sites)
+- Archaeology (relic sites)
+
+**Best Exploration Ships:**
+- **Heron** (Caldari frigate) — starter, decent bonuses
+- **Buzzard** (Caldari Covert Ops) — best scanner, cloaking
+- **Astero** (Sisters of EVE frigate) — combat + exploration, extremely popular
+
+**Exploration ISK:**
+- High-sec relic: 5–20M per site
+- Low-sec relic: 20–80M per site
+- Null-sec relic: 50–200M per site
+- Wormhole relic: 50–500M+ per site
+
+**Pro Tip:** Use the Relic Analyser and Data Analyser with bonused ships. In null-sec, always D-Scan before warping to a site.
+
+---
+
+### ☄️ Ratting (PvE Combat in Null/Low Sec)
+
+<div align="center">
+<img src="https://images.evetech.net/types/12005/render?size=256" alt="Ishtar — null-sec anomaly ratting" width="260" />
+</div>
+
+
+
+Ratting means killing NPC pirates in asteroid belts and anomalies.
+
+**Anomaly Ratting:**
+Anomalies respawn constantly in null-sec. Clear them for bounty ISK.
+
+**Best Ratting Ships (2026):**
+- **Ishtar** (Gallente HAC) — sentry drone king, AFK-able, 80–120M ISK/hour
+- **Vexor Navy Issue** — budget version, still very effective
+- **Rattlesnake** — tank monster, great for newer players
+- **Carrier** (endgame) — 200–400M ISK/hour with fighters, requires null-sec corp
+
+**Bounty System:**
+Each NPC has a bounty. Killing it pays ISK directly to your wallet. Faction rats and officer spawns drop extremely rare modules worth billions.
+
+**Escalations:**
+Certain combat sites escalate into deadspace complexes worth 50–500M ISK. These can be sold to other players.
+
+---
+
+### 🌀 Abyssal Deadspace
+
+<div align="center">
+<img src="https://images.evetech.net/types/17715/render?size=256" alt="Gila — Abyssal Deadspace meta" width="260" />
+</div>
+
+
+
+Introduced in 2018, Abyssal Deadspace is instanced PvE in a dangerous pocket of space. You enter via a Triglavian filament, complete 3 rooms of combat, and escape through the exit — all within a 20-minute timer or your ship is destroyed.
+
+**Tiers:**
+- T1–T2: New player friendly, 10–30M per run
+- T3: Mid-level, 30–60M per run
+- T4: Serious income, 80–150M per run
+- T5: Highest tier, 150–300M+ per run, very dangerous
+
+**Best Abyssal Ships (2026):**
+- **Gila** (Guristas pirate cruiser) — the meta king for T3/T4 Abyss. Shields + drones, incredible tank
+- **Cerberus** — missile alternative
+- **Sacrilege** — armour, strong in certain filament types
+- **Vagabond** — speed-tanking specific weathers
+
+**Filament Weather Types:**
+
+| Filament | Effect |
+|---|---|
+| Electrical | Reduces shields, boosts armour |
+| Firestorm | Reduces armour, boosts shields |
+| Exotic | Reduces EM/Thermal resistance |
+| Gamma | Reduces armour, boosts explosive |
+| Dark | Reduces capacitor recharge |
+
+Match your ship's strong resist to the filament type.
+
+---
+
+### 📈 Station Trading
+
+Buy low, sell high. Pure market manipulation and arbitrage.
+
+**How it works:**
+1. Find items with large bid/ask spreads
+2. Place buy orders below current lowest sell
+3. Wait for sellers to fill your order
+4. Relist at competitive sell price for profit
+
+**Popular Trading Hubs:**
+- **Jita 4-4** (The Forge) — the biggest market in the game, trillions of ISK daily
+- **Amarr VIII** — second largest
+- **Dodixie** — Gallente hub
+- **Rens** — Minmatar hub
+- **Hek** — smaller but less competition
+
+**Required Skills:**
+- Trade (more buy orders simultaneously)
+- Retail / Wholesale / Tycoon (more orders)
+- Broker Relations (reduce fees)
+- Accounting (reduce taxes)
+
+**Income potential:** Literally unlimited. Top traders make hundreds of billions per month.
+
+---
+
+### 🌍 Planetary Interaction (PI)
+
+Extract resources from planets and process them into goods sold on the market or used in manufacturing.
+
+**Setup:**
+1. Scan planets with your Planetary Interaction skill
+2. Build Command Centres, Extractors, and Processors on planets
+3. Set up routing between facilities
+4. Collect and export finished goods every few days
+
+**Best PI Products (2026):**
+- **Robotics** — consistent high demand
+- **Transcranial Microcontrollers** — POCO taxes vary
+- **Integrity Response Drones** — used in structures
+
+**Income:** 20–100M ISK/day passively per account with good setups. **Totally passive once configured.**
+
+---
+
+### 🔺 Pochven
+
+Pochven is a 27-system region created by the Triglavian Collective during the Triglavian Invasions. It exists as its own disconnected region accessible only via wormholes or filaments.
+
+**Why Pochven:**
+- Enormous bounties and unique loot
+- Triglavian standings required to operate safely (grind invasions to earn)
+- Some of the best ISK/hour in the game for prepared players
+- Unique implants and modules only found here
+
+**Entry Methods:**
+- Pochven filaments (cheap, available on market)
+- Natural wormhole connections
+- Standing with Triglavians (allows docking in Pochven stations)
+
+**Income:** 100–400M+ ISK/hour for skilled players with correct standings
+
+---
+
+### ⚡ Incursions
+
+Incursions are cooperative PvE events where the Sansha Nation invades high-sec systems. Players form fleets to fight them off for massive ISK rewards.
+
+**Why Incursions are great:**
+- Safe (high-sec)
+- 100–200M ISK/hour
+- Social — requires fleet coordination
+- Low skill requirement — bring a correctly fitted battleship
+
+**Getting Started:**
+Join the **Warp to Me** (WTM) or **The Valhalla Project** (TVP) incursion communities. They provide fleets, fits, and guidance for new incursion runners.
+
+**Required:** A T2-fit battleship matching their approved doctrines (usually Leshaks, Machariels, or Nightmare battleships)
+
+---
+
+### 🏭 Industry & Manufacturing
+
+<div align="center">
+<img src="https://images.evetech.net/types/28606/render?size=256" alt="Orca — industrial command ship" width="260" />
+</div>
+
+
+
+Buy blueprints, source minerals, manufacture ships and modules, sell for profit.
+
+**Manufacturing Chain:**
+1. Research a Blueprint Original (BPO) to improve efficiency
+2. Source minerals from mining or market
+3. Manufacture using industrial facilities
+4. Sell on market at a profit
+
+**T2 Manufacturing:**
+More complex — requires invention (a random process turning T1 BPCs into T2 BPCs). Much more profitable but more involved.
+
+**Income:** Varies wildly based on market conditions. Skilled industrialists make billions consistently.
+
+---
+
+
+## 🛠️ Essential Third-Party Tools Tools
+
+<div align="center">
+<img src="https://images.evetech.net/types/29990/render?size=256" alt="The Loki — fly smarter with the right tools" width="280" />
+</div>
+
+
+
+### Market & Economy
+
+| Tool | Purpose |
+|---|---|
+| **EVE Marketer** | Market price history and trends |
+| **Janice** | Paste loot list, get instant valuation |
+| **Adam4EVE** | Deep market analysis |
+| **EVE Trade** | Find profitable trade routes |
+| **Fuzzwork** | Spreadsheets for industry, manufacturing, PI |
+
+### Fitting & Planning
+
+| Tool | Purpose |
+|---|---|
+| **PyFA** | Best ship fitting tool — download and use this |
+| **EVEmon** | Skill planning and queue management |
+| **EVE Skill Board** | Share skill sheets publicly |
+
+### Maps & Navigation
+
+| Tool | Purpose |
+|---|---|
+| **Dotlan EVE Maps** | System stats, jump routes, sovereignty |
+| **EVE-Gatecamp Check** | Check if a gate is camped before jumping |
+| **Tripwire / Pathfinder** | Wormhole mapping tools |
+| **EVE-Scout** | Wormhole rescue service and Thera connection mapper |
+
+### Intelligence
+
+| Tool | Purpose |
+|---|---|
+| **zKillboard** | Kill/loss records for every pilot and corp — check anyone |
+| **EVE Who** | Corporation and alliance lookup |
+| **EVE Prism** | Intel on pilots, corps, alliances |
+| **EVEPRAISAL** | Quick paste-and-value tool for loot |
+| **Little Helper** | Intel tool for null-sec alerts |
+
+### Communication
+
+| Tool | Purpose |
+|---|---|
+| **Discord** | Every major corp/alliance uses it |
+| **Mumble / TeamSpeak** | Some older alliances still use voice here |
+
+### Mobile
+
+| Tool | Purpose |
+|---|---|
+| **EVE Portal** | Official mobile app — manage skills, mail, wallet |
+| **Neocom II** (iOS) | Excellent third-party EVE companion |
+
+---
+
+
+---
+
+➡️ **[PvP & Endgame](chapter-4-pvp-and-endgame.md)**
