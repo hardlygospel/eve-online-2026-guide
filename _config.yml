@@ -32,6 +32,9 @@ callouts:
     title: Warning
     color: yellow
 
+kramdown:
+  parse_block_html: true
+
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
