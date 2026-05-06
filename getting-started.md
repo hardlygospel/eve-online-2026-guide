@@ -74,12 +74,23 @@ The EVE Gate itself still exists in Genesis region, visible as a brilliant light
 ## 🏛️ The Four Races
 
 <div align="center">
-
-| 🔵 Caldari | 🟡 Amarr | 🟢 Gallente | 🔴 Minmatar |
-|:---:|:---:|:---:|:---:|
-| <img src="https://images.evetech.net/corporations/500001/logo?size=128" width="90"/> | <img src="https://images.evetech.net/corporations/500003/logo?size=128" width="90"/> | <img src="https://images.evetech.net/corporations/500004/logo?size=128" width="90"/> | <img src="https://images.evetech.net/corporations/500002/logo?size=128" width="90"/> |
-| Missiles · Shields | Lasers · Armour | Drones · Armour | Speed · Flexible |
-
+<table>
+<tr>
+<th>🔵 Caldari</th><th>🟡 Amarr</th><th>🟢 Gallente</th><th>🔴 Minmatar</th>
+</tr>
+<tr>
+<td align="center"><img src="https://images.evetech.net/corporations/500001/logo?size=128" width="90"/></td>
+<td align="center"><img src="https://images.evetech.net/corporations/500003/logo?size=128" width="90"/></td>
+<td align="center"><img src="https://images.evetech.net/corporations/500004/logo?size=128" width="90"/></td>
+<td align="center"><img src="https://images.evetech.net/corporations/500002/logo?size=128" width="90"/></td>
+</tr>
+<tr>
+<td align="center">Missiles · Shields</td>
+<td align="center">Lasers · Armour</td>
+<td align="center">Drones · Armour</td>
+<td align="center">Speed · Flexible</td>
+</tr>
+</table>
 </div>
 
 
@@ -307,12 +318,23 @@ After the career agents, do "The Blood-Stained Stars" — a 50+ mission arc that
 ## 🎓 New Player Guide by Race — Where to Start
 
 <div align="center">
-
-| 🔵 Caldari | 🟡 Amarr | 🟢 Gallente | 🔴 Minmatar |
-|:---:|:---:|:---:|:---:|
-| <img src="https://images.evetech.net/corporations/500001/logo?size=128" width="90"/> | <img src="https://images.evetech.net/corporations/500003/logo?size=128" width="90"/> | <img src="https://images.evetech.net/corporations/500004/logo?size=128" width="90"/> | <img src="https://images.evetech.net/corporations/500002/logo?size=128" width="90"/> |
-| ⭐ Beginner Pick | Great PvE | Best ISK Farm | Highest Ceiling |
-
+<table>
+<tr>
+<th>🔵 Caldari</th><th>🟡 Amarr</th><th>🟢 Gallente</th><th>🔴 Minmatar</th>
+</tr>
+<tr>
+<td align="center"><img src="https://images.evetech.net/corporations/500001/logo?size=128" width="90"/></td>
+<td align="center"><img src="https://images.evetech.net/corporations/500003/logo?size=128" width="90"/></td>
+<td align="center"><img src="https://images.evetech.net/corporations/500004/logo?size=128" width="90"/></td>
+<td align="center"><img src="https://images.evetech.net/corporations/500002/logo?size=128" width="90"/></td>
+</tr>
+<tr>
+<td align="center">⭐ Beginner Pick</td>
+<td align="center">Great PvE</td>
+<td align="center">Best ISK Farm</td>
+<td align="center">Highest Ceiling</td>
+</tr>
+</table>
 </div>
 
 
