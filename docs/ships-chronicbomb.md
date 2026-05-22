@@ -1,8 +1,3 @@
----
-title: chronicbomb
-parent: Character Profiles
-nav_order: 3
----
 
 
 **Minmatar combat pilot — roamer, brawler, fleet DPS.**

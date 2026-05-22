@@ -1,8 +1,3 @@
----
-title: Character Profiles
-nav_order: 7
-has_children: true
----
 
 
 > *Four pilots. Each one built for something different. Read in order — top is who to focus on first.*
@@ -1564,7 +1559,7 @@ Paste is used for overheating modules too — it repairs heat damage. Keep some 
 ---
 
 
-*Last updated April 2026 · Skills from EveLens 1.2.1 · Ship images via [images.evetech.net](https://images.evetech.net) (CCP official CDN) · [Back to Guide](README.md)*
+*Last updated April 2026 · Skills from EveLens 1.2.1 · Ship images via [images.evetech.net](https://images.evetech.net) (CCP official CDN) · [Back to Guide](index.md)*
 
 
 <a name="ammo"></a>
@@ -1783,7 +1778,7 @@ Screams Eternal is not an ISK-printer yet, but she can make steady income:
 Once she trains Heavy Assault Missiles and Caldari Battlecruiser 5, her Drake DPS improves significantly and level 3 missions become fast and easy.
 
 
-*Last updated April 2026 · Skills from EveLens 1.2.1 · Ship images via [images.evetech.net](https://images.evetech.net) (CCP official CDN) · [Back to Main Profiles](character-profiles.md) · [Back to Guide](README.md)*
+*Last updated April 2026 · Skills from EveLens 1.2.1 · Ship images via [images.evetech.net](https://images.evetech.net) (CCP official CDN) · [Back to Main Profiles](character-profiles.md) · [Back to Guide](index.md)*
 
 
-*Last updated April 2026 · Skills from EveLens 1.2.1 · Ship images via [images.evetech.net](https://images.evetech.net) (CCP official CDN) · [Back to Guide](README.md)*
+*Last updated April 2026 · Skills from EveLens 1.2.1 · Ship images via [images.evetech.net](https://images.evetech.net) (CCP official CDN) · [Back to Guide](index.md)*

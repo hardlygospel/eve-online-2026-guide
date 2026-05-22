@@ -1,7 +1,3 @@
----
-title: Getting Started
-nav_order: 2
----
 
 
 ## 🚀 What Is EVE Online in 2026?
@@ -546,4 +542,4 @@ The game rewards curiosity, patience, and ruthlessness in equal measure. Master 
 
 ---
 
-➡️ **[Skills & Navigation](chapter-2-skills-and-navigation.md)**
+➡️ **[Skills & Navigation](skills-navigation.md)**

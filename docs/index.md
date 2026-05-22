@@ -1,8 +1,3 @@
----
-title: Home
-nav_order: 1
-permalink: /
----
 
 # The Most Comprehensive EVE Online Guide for 2026
 

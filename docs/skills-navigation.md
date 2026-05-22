@@ -1,7 +1,3 @@
----
-title: Skills & Navigation
-nav_order: 3
----
 
 
 ## 📅 Progression Guide
@@ -296,4 +292,4 @@ Character attributes can be remapped once per year (plus one free remap for new 
 
 ---
 
-➡️ **[Ships & ISK](chapter-3-ships-and-isk.md)**
+➡️ **[Ships & ISK](ships-isk.md)**

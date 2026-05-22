@@ -1,8 +1,3 @@
----
-title: xNightShadex
-parent: Character Profiles
-nav_order: 1
----
 
 
 **Amarr elite combat pilot — the most Omega-ready character in the stable.**

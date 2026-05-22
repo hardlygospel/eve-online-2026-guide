@@ -1,7 +1,3 @@
----
-title: Ships & ISK
-nav_order: 4
----
 
 
 ## 🚢 Ship Progression
@@ -645,4 +641,4 @@ More complex — requires invention (a random process turning T1 BPCs into T2 BP
 
 ---
 
-➡️ **[PvP & Endgame](chapter-4-pvp-and-endgame.md)**
+➡️ **[PvP & Endgame](pvp-endgame.md)**

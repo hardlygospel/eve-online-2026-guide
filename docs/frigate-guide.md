@@ -1,7 +1,3 @@
----
-title: Frigate Guide
-nav_order: 6
----
 
 
 > *Frigates are cheap, fast to train, and where PvP begins. Lose one and it costs less than a night out. Master them and every other ship makes more sense.*
@@ -885,4 +881,4 @@ Lady Damnation is not a combat pilot and should not be flying frigates into figh
 
 ---
 
-*Last updated April 2026 · Ship images via [images.evetech.net](https://images.evetech.net) (CCP official CDN) · [Character Profiles](character-profiles.md) · [Back to Guide](README.md)*
+*Last updated April 2026 · Ship images via [images.evetech.net](https://images.evetech.net) (CCP official CDN) · [Character Profiles](character-profiles.md) · [Back to Guide](index.md)*

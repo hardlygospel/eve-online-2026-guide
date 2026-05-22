@@ -1,8 +1,3 @@
----
-title: Screams Eternal
-parent: Character Profiles
-nav_order: 4
----
 
 
 **Caldari missile pilot — passive shield tank, fire and forget.**

@@ -1,0 +1,56 @@
+site_name: EVE Online Guide 2026
+site_description: >-
+  The most comprehensive EVE Online guide for 2026 — races, ISK methods,
+  progression, fittings, shortcuts, tools and more.
+site_url: https://hardlygospel.github.io/eve-online-2026-guide/
+repo_url: https://github.com/hardlygospel/eve-online-2026-guide
+copyright: EVE Online Guide 2026 — hardlygospel.github.io
+
+theme:
+  name: material
+  icon:
+    logo: material/rocket-launch
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to light
+    - scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - footnotes
+  - admonition
+  - attr_list
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Skills & Navigation: skills-navigation.md
+  - Ships & ISK: ships-isk.md
+  - PvP & Endgame: pvp-endgame.md
+  - Frigate Guide: frigate-guide.md
+  - Character Profiles:
+      - Overview: character-profiles.md
+      - xNightShadex: ships-xnightshadex.md
+      - Lady Damnation: ships-lady-damnation.md
+      - chronicbomb: ships-chronicbomb.md
+      - Screams Eternal: ships-screams-eternal.md

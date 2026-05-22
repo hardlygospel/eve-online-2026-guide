@@ -1,8 +1,3 @@
----
-title: Lady Damnation
-parent: Character Profiles
-nav_order: 2
----
 
 
 **Miner. Refiner. Manufacturer. She does not fight.**

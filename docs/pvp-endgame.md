@@ -1,7 +1,3 @@
----
-title: PvP & Endgame
-nav_order: 5
----
 
 
 ## 🕳️ Wormhole Living — The Final Frontier
@@ -499,4 +495,4 @@ You are free to use, modify, and distribute this work under the terms of the GPL
 
 ---
 
-➡️ **[Back to Contents](README.md)**
+➡️ **[Back to Contents](index.md)**
