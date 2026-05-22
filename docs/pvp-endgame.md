@@ -2,7 +2,7 @@
 
 ## 🕳️ Wormhole Living — The Final Frontier
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/33468/render?size=256" alt="The Astero — built for wormhole life" width="280" />
 </div>
 
@@ -72,7 +72,7 @@ Most wormhole corps anchor a Citadel (Astrahus/Fortizar) inside the wormhole for
 
 ## ⚔️ Faction Warfare — Structured Low-Sec PvP
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/corporations/500002/logo?size=256" alt="Minmatar Republic — the most active Faction Warfare nation" width="220" />
 </div>
 
@@ -135,7 +135,7 @@ Research the LP store before grinding — some items sell for 1,500–3,000 ISK 
 
 ## 🛡️ Fleet Combat — F1 Monkey to FC
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/23911/render?size=256" alt="The Thanatos — carriers are the backbone of capital fleets" width="280" />
 </div>
 
@@ -206,7 +206,7 @@ Good FCs are extremely valuable and rare. The path:
 
 ## 🏰 Capital Ships — The Big Stuff
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/11567/render?size=256" alt="The Avatar — an Amarr Titan, the most powerful ship in New Eden" width="280" />
 </div>
 
@@ -262,7 +262,7 @@ The largest ship in EVE. Two uses: the Doomsday Device (a superweapon that insta
 
 ## 💥 PvP — From Nervous to Dangerous
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/12019/render?size=256" alt="The Vagabond — one of EVE's most feared solo PvP ships" width="280" />
 </div>
 
@@ -343,7 +343,7 @@ Learning to crash a gate and escape is a core survival skill.
 
 ## 🏢 Corporations, Alliances & Politics
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/corporations/500003/logo?size=256" alt="Amarr Empire — join a corporation and shape history" width="220" />
 </div>
 
@@ -412,7 +412,7 @@ Every major alliance has spies, back-channel negotiations, and non-aggression pa
 
 ## 🎭 The Meta-Game — Scams, Espionage & Diplomacy
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/corporations/500001/logo?size=256" alt="In EVE, even empires play the meta-game" width="220" />
 </div>
 

@@ -2,7 +2,7 @@
 
 ## 🚢 Ship Progression
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/24698/render?size=256" alt="The Drake — every new player's milestone ship" width="280" />
 </div>
 
@@ -62,7 +62,7 @@ Capital Ships (Carrier, Dreadnought, Force Auxiliary, Supercarrier, Titan)
 
 ## 🔧 Fittings & Fitting Philosophy
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/24702/render?size=256" alt="The Hurricane — one of EVE's most versatile ships to fit" width="280" />
 </div>
 
@@ -112,7 +112,7 @@ Capital Ships (Carrier, Dreadnought, Force Auxiliary, Supercarrier, Titan)
 
 ## 🛸 Proven Ship Fits
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/17715/render?size=256" alt="The Gila — Abyssal Deadspace meta ship" width="280" />
 </div>
 
@@ -291,7 +291,7 @@ Curator II x5 (Sentry Drones)
 
 ## 💰 Ways to Make ISK
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/12005/render?size=256" alt="The Ishtar — the ISK-per-hour king of null-sec" width="280" />
 </div>
 
@@ -317,7 +317,7 @@ Curator II x5 (Sentry Drones)
 
 ### ⛏️ Mining
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/17478/render?size=256" alt="Retriever Mining Barge" width="260" />
 </div>
 
@@ -345,7 +345,7 @@ Mining is the backbone of EVE's economy. Every ship hull, module, and structure 
 
 ### 🎯 Mission Running
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/638/render?size=256" alt="Raven Battleship — L4 mission benchmark" width="260" />
 </div>
 
@@ -373,7 +373,7 @@ Every mission gives LP with the agent's faction. LP is converted to faction item
 
 ### 🔭 Exploration
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/33468/render?size=256" alt="Astero — exploration and relic hunting" width="260" />
 </div>
 
@@ -410,7 +410,7 @@ Exploration involves scanning down hidden sites with probes and running them for
 
 ### ☄️ Ratting (PvE Combat in Null/Low Sec)
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/12005/render?size=256" alt="Ishtar — null-sec anomaly ratting" width="260" />
 </div>
 
@@ -437,7 +437,7 @@ Certain combat sites escalate into deadspace complexes worth 50–500M ISK. Thes
 
 ### 🌀 Abyssal Deadspace
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/17715/render?size=256" alt="Gila — Abyssal Deadspace meta" width="260" />
 </div>
 
@@ -555,7 +555,7 @@ Join the **Warp to Me** (WTM) or **The Valhalla Project** (TVP) incursion commun
 
 ### 🏭 Industry & Manufacturing
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/28606/render?size=256" alt="Orca — industrial command ship" width="260" />
 </div>
 
@@ -579,7 +579,7 @@ More complex — requires invention (a random process turning T1 BPCs into T2 BP
 
 ## 🛠️ Essential Third-Party Tools Tools
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/29990/render?size=256" alt="The Loki — fly smarter with the right tools" width="280" />
 </div>
 

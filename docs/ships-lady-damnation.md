@@ -50,7 +50,7 @@ Goal: Mine ore → reprocess into minerals → manufacture goods → haul to mar
 
 ## Venture — Mining Ship
 
-<div align="center"><img src="https://images.evetech.net/types/32880/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/32880/render?size=512" width="320" /></div>
 
 **ISK/hr: 15–30M | Hull: ~700K | Total fit: ~13M**
 
@@ -104,7 +104,7 @@ Drones: Mining Drone I x2
 
 ## Iteron Mark V — Hauler
 
-<div align="center"><img src="https://images.evetech.net/types/657/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/657/render?size=512" width="320" /></div>
 
 **ISK/hr: 50–100M | Hull: ~2M**
 
@@ -243,7 +243,7 @@ Omega activates Advanced Industry IV (faster manufacturing cycle times), Laborat
 
 ### Viator — Goal Hauling Ship
 
-<div align="center"><img src="https://images.evetech.net/types/12753/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/12753/render?size=512" width="320" /></div>
 
 **ISK/hr: 100–200M | Hull: ~270M (T2 Blockade Runner) | Total fit: ~297M**
 

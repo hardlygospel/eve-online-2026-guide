@@ -52,7 +52,7 @@ Goal: Hurricane is the workhorse now at 55–90M ISK/hr. Train Missile Launcher 
 
 ## Rifter <a name="rifter"></a>
 
-<div align="center"><img src="https://images.evetech.net/types/587/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/587/render?size=512" width="320" /></div>
 
 **ISK/hr: 10–20M | Hull: ~400K | Total fit: ~16M**
 
@@ -113,7 +113,7 @@ Ammo: Phased Plasma S (brawl) / Barrage S (kite 15 km)
 
 ## Thrasher <a name="thrasher"></a>
 
-<div align="center"><img src="https://images.evetech.net/types/16242/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/16242/render?size=512" width="320" /></div>
 
 **ISK/hr: 15–30M | Hull: ~600K | Total fit: ~20M**
 
@@ -160,7 +160,7 @@ Ammo: Tremor S (snipe 40–60 km) / Quake S (max alpha 0–5 km)
 
 ## Stabber <a name="stabber"></a>
 
-<div align="center"><img src="https://images.evetech.net/types/622/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/622/render?size=512" width="320" /></div>
 
 **ISK/hr: 25–50M | Hull: ~3M | Total fit: ~23M**
 
@@ -213,7 +213,7 @@ Ammo: Barrage M (kite 20–25 km) / EMP M (brawl)
 
 ## Rupture <a name="rupture"></a>
 
-<div align="center"><img src="https://images.evetech.net/types/624/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/624/render?size=512" width="320" /></div>
 
 **ISK/hr: 35–60M | Hull: ~5M | Total fit: ~39M**
 
@@ -269,7 +269,7 @@ Ammo: Phased Plasma M (brawl) / EMP M (vs shields)
 
 ## Hurricane <a name="hurricane"></a>
 
-<div align="center"><img src="https://images.evetech.net/types/24702/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/24702/render?size=512" width="320" /></div>
 
 **ISK/hr: 55–90M | Hull: ~40M | Total fit: ~72M**
 
@@ -328,7 +328,7 @@ Ammo: Phased Plasma M (brawl) / Barrage M (kite) / EMP M (vs shields)
 
 ## Hurricane Fleet Issue <a name="hfi"></a>
 
-<div align="center"><img src="https://images.evetech.net/types/33476/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/33476/render?size=512" width="320" /></div>
 
 **ISK/hr: Fleet loot — variable | Hull: ~65M | Total fit: ~106M**
 
@@ -383,7 +383,7 @@ Ammo: Republic Fleet EMP M (fleet fights) / Tremor M (snipe 80+ km)
 
 ### Drake — 80–130M ISK/hr
 
-<div align="center"><img src="https://images.evetech.net/types/24698/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/24698/render?size=512" width="320" /></div>
 
 **Hull: ~30M | Total fit: ~71M**
 
@@ -434,7 +434,7 @@ Warp in at 30 km. Orbit at 10,000 m. All 7 launchers on primary. Shield recharge
 
 ### Wolf — 30–60M ISK/hr
 
-<div align="center"><img src="https://images.evetech.net/types/11393/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/11393/render?size=512" width="320" /></div>
 
 **Hull: ~30M (T2 Assault Frigate) | Total fit: ~50M**
 
@@ -484,7 +484,7 @@ MWD in, scramble at 9 km, orbit 500 m. Four ACs plus Nosferatu. Rep bursts when 
 
 ### Vagabond — 100–200M ISK/hr
 
-<div align="center"><img src="https://images.evetech.net/types/11999/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/11999/render?size=512" width="320" /></div>
 
 **Hull: ~260M (T2 Heavy Assault Cruiser) | Total fit: ~284M**
 

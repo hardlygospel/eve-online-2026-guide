@@ -52,7 +52,7 @@ Goal: Harbinger is the best ship right now at 60–100M ISK/hr. One Omega subscr
 
 ## Executioner <a name="executioner"></a>
 
-<div align="center"><img src="https://images.evetech.net/types/597/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/597/render?size=512" width="320" /></div>
 
 **ISK/hr: 10–20M | Hull: ~300K | Total fit: ~11M**
 
@@ -106,7 +106,7 @@ Ammo: Scorch S (default — cap-free) / Conflagration S (target webbed + station
 
 ## Coercer <a name="coercer"></a>
 
-<div align="center"><img src="https://images.evetech.net/types/16236/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/16236/render?size=512" width="320" /></div>
 
 **ISK/hr: 15–30M | Hull: ~600K | Total fit: ~15M**
 
@@ -153,7 +153,7 @@ Ammo: Scorch S (default) / Conflagration S (close, target stopped)
 
 ## Omen <a name="omen"></a>
 
-<div align="center"><img src="https://images.evetech.net/types/620/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/620/render?size=512" width="320" /></div>
 
 **ISK/hr: 35–60M | Hull: ~4M | Total fit: ~38M**
 
@@ -209,7 +209,7 @@ Ammo: Scorch M (kite 15–25 km) / Conflagration M (target stopped)
 
 ## Maller <a name="maller"></a>
 
-<div align="center"><img src="https://images.evetech.net/types/628/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/628/render?size=512" width="320" /></div>
 
 **ISK/hr: 30–55M | Hull: ~6M | Total fit: ~40M**
 
@@ -263,7 +263,7 @@ Ammo: Scorch M / Conflagration M
 
 ## Harbinger <a name="harbinger"></a>
 
-<div align="center"><img src="https://images.evetech.net/types/24696/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/24696/render?size=512" width="320" /></div>
 
 **ISK/hr: 60–100M | Hull: ~45M | Total fit: ~82M**
 
@@ -324,7 +324,7 @@ Ammo: Scorch M (default) / Conflagration M (stopped target) / Scourge Heavy Miss
 
 ## Hurricane <a name="hurricane"></a>
 
-<div align="center"><img src="https://images.evetech.net/types/24702/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/24702/render?size=512" width="320" /></div>
 
 **ISK/hr: 55–90M | Hull: ~40M | Total fit: ~72M**
 
@@ -381,7 +381,7 @@ Ammo: Phased Plasma M (brawl 0–5 km) / Barrage M (kite 15 km)
 
 ### Zealot — 80–150M ISK/hr
 
-<div align="center"><img src="https://images.evetech.net/types/12003/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/12003/render?size=512" width="320" /></div>
 
 **Hull: ~200M (T2 Heavy Assault Cruiser) | Total fit: ~235M**
 
@@ -435,7 +435,7 @@ Orbit 15,000 m with Scorch M cap-free. Same principle as the Omen but significan
 
 ### Paladin — 200–400M ISK/hr
 
-<div align="center"><img src="https://images.evetech.net/types/28659/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/28659/render?size=512" width="320" /></div>
 
 **Hull: ~1.6B (T2 Marauder) | Total fit: ~1.72B**
 

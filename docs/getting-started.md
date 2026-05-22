@@ -27,7 +27,7 @@ In 2026, EVE is celebrating over 20 years of operation. The game has evolved dra
 
 ## 🌌 Lore & The World of New Eden
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/corporations/500001/logo?size=256" alt="Caldari State — one of New Eden's four empires" width="220" />
 </div>
 
@@ -69,7 +69,7 @@ The EVE Gate itself still exists in Genesis region, visible as a brilliant light
 
 ## 🏛️ The Four Races
 
-<div align="center">
+<div align="center" markdown="1">
 <table>
 <tr>
 <th>🔵 Caldari</th><th>🟡 Amarr</th><th>🟢 Gallente</th><th>🔴 Minmatar</th>
@@ -97,7 +97,7 @@ Each race has a distinct playstyle, lore, and ship philosophy. Your starting rac
 
 ### 🔵 Caldari — The Corporate State
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/corporations/500001/logo?size=128" alt="Caldari State" width="128" />
 </div>
 
@@ -141,7 +141,7 @@ Each race has a distinct playstyle, lore, and ship philosophy. Your starting rac
 
 ### 🟡 Amarr — The Holy Empire
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/corporations/500003/logo?size=128" alt="Amarr Empire" width="128" />
 </div>
 
@@ -185,7 +185,7 @@ Each race has a distinct playstyle, lore, and ship philosophy. Your starting rac
 
 ### 🟢 Gallente — The Federation
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/corporations/500004/logo?size=128" alt="Gallente Federation" width="128" />
 </div>
 
@@ -229,7 +229,7 @@ Each race has a distinct playstyle, lore, and ship philosophy. Your starting rac
 
 ### 🔴 Minmatar — The Republic
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/corporations/500002/logo?size=128" alt="Minmatar Republic" width="128" />
 </div>
 
@@ -276,7 +276,7 @@ Each race has a distinct playstyle, lore, and ship philosophy. Your starting rac
 
 ## 👤 Character Creation & Starting Choices
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/corporations/500004/logo?size=256" alt="Gallente Federation — choose your origin" width="220" />
 </div>
 
@@ -313,7 +313,7 @@ After the career agents, do "The Blood-Stained Stars" — a 50+ mission arc that
 
 ## 🎓 New Player Guide by Race — Where to Start
 
-<div align="center">
+<div align="center" markdown="1">
 <table>
 <tr>
 <th>🔵 Caldari</th><th>🟡 Amarr</th><th>🟢 Gallente</th><th>🔴 Minmatar</th>
@@ -341,7 +341,7 @@ After the career agents, do "The Blood-Stained Stars" — a 50+ mission arc that
 
 ### 🔵 Starting as Caldari — The Recommended Beginner Race
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/24698/render?size=256" alt="The Drake — the Caldari new player's best friend" width="260" />
 </div>
 
@@ -385,7 +385,7 @@ Heavy Missile Launcher II × 6
 
 ### 🟡 Starting as Amarr — Tanks, Lasers, No Ammo Costs
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/28659/render?size=256" alt="The Paladin Marauder — Amarr endgame" width="260" />
 </div>
 
@@ -417,7 +417,7 @@ Impairor (starter) → Punisher (frigate) → Maller (cruiser) → Prophecy (bat
 
 ### 🟢 Starting as Gallente — Drones, Drones, Drones
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/12005/render?size=256" alt="The Ishtar — Gallente passive ISK machine" width="260" />
 </div>
 
@@ -449,7 +449,7 @@ Velator (starter) → Incursus (frigate) → Vexor (cruiser) → Myrmidon (battl
 
 ### 🔴 Starting as Minmatar — Speed, Flexibility, Mastery
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/24702/render?size=256" alt="The Hurricane — Minmatar's workhorse" width="260" />
 </div>
 
@@ -497,7 +497,7 @@ Reaper (starter) → Rifter (frigate) → Rupture (cruiser) → Hurricane (battl
 
 ## 💡 New Player Tips & Common Mistakes
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/638/render?size=256" alt="The Raven — where many careers truly begin" width="280" />
 </div>
 

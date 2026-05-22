@@ -49,7 +49,7 @@ Goal: Drake is the flagship at 70–120M ISK/hr. Train Caldari Battleship I (jus
 
 ## Kestrel <a name="kestrel"></a>
 
-<div align="center"><img src="https://images.evetech.net/types/602/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/602/render?size=512" width="320" /></div>
 
 **ISK/hr: 15–25M | Hull: ~600K | Total fit: ~15M**
 
@@ -104,7 +104,7 @@ Ammo: Scourge Light Missile (default) / Mjolnir (vs Gallente / Minmatar NPCs)
 
 ## Caracal <a name="caracal"></a>
 
-<div align="center"><img src="https://images.evetech.net/types/621/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/621/render?size=512" width="320" /></div>
 
 **ISK/hr: 40–65M | Hull: ~4M | Total fit: ~32M**
 
@@ -157,7 +157,7 @@ Ammo: Scourge Heavy Missile (default) / Caldari Navy Scourge (tough targets)
 
 ## Drake <a name="drake"></a>
 
-<div align="center"><img src="https://images.evetech.net/types/24698/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/24698/render?size=512" width="320" /></div>
 
 **ISK/hr: 70–120M | Hull: ~30M**
 
@@ -273,7 +273,7 @@ This is the single best use of a day's training time. The Raven does level 4 mis
 
 ### Raven — 120–180M ISK/hr
 
-<div align="center"><img src="https://images.evetech.net/types/638/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/638/render?size=512" width="320" /></div>
 
 **Hull: ~65M | Total fit: ~116M**
 
@@ -331,7 +331,7 @@ Orbit at 50,000 m. Cruise missiles hit everything at extreme range. Pulse the sh
 
 ### Hawk — 30–60M ISK/hr
 
-<div align="center"><img src="https://images.evetech.net/types/11382/render?size=512" width="320" /></div>
+<div align="center" markdown="1"><img src="https://images.evetech.net/types/11382/render?size=512" width="320" /></div>
 
 **Hull: ~30M (T2 Assault Frigate) | Total fit: ~49M**
 

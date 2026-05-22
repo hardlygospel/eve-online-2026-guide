@@ -1,7 +1,7 @@
 
 # The Most Comprehensive EVE Online Guide for 2026
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/corporations/98553333/logo?size=256" alt="EVE Online" width="200" />
 </div>
 

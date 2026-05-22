@@ -28,7 +28,7 @@
 <a name="xnightshadex"></a>
 # xNightShadex
 
-<div align="center">
+<div align="center" markdown="1">
 
 | | |
 |---|---|
@@ -46,7 +46,7 @@ xNightShadex is an **elite multi-role pilot** who has spent years training into 
 <a name="paladin-pve"></a>
 ## Paladin — Level 4 Mission Farmer
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/28659/render?size=512" alt="Paladin Marauder" width="420" />
 
 **Paladin — Amarr Marauder (T2)**
@@ -163,7 +163,7 @@ If a dangerous spawn appears right next to you at close range and you cannot tan
 <a name="loki-pvp"></a>
 ## Loki — Armour PvP Brawler
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/29984/render?size=512" alt="Loki Strategic Cruiser" width="420" />
 
 **Loki — Minmatar Strategic Cruiser (T3)**
@@ -262,7 +262,7 @@ The moment you land, you have a 2-second decloak timer before modules can fire. 
 <a name="guardian-logi"></a>
 ## Guardian — Fleet Logistics
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/11987/render?size=512" alt="Guardian Logistics Cruiser" width="420" />
 
 **Guardian — Amarr Logistics Cruiser (T2)**
@@ -354,7 +354,7 @@ Remote armor repairers have a delay — they take 1.5 seconds per cycle. You nee
 <a name="absolution-command"></a>
 ## Absolution — Fleet Command
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/22436/render?size=512" alt="Absolution Command Ship" width="420" />
 
 **Absolution — Amarr Command Ship (T2)**
@@ -446,7 +446,7 @@ Never let command bursts lapse — the moment they expire, reactivate them. The 
 <a name="revelation"></a>
 ## Next Goal — The Revelation Dreadnought
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/19720/render?size=512" alt="Revelation Dreadnought" width="420" />
 
 **Revelation — Amarr Dreadnought (Capital)**
@@ -479,7 +479,7 @@ Train **Amarr Capital Ships I → III** to enter a Revelation. Capital energy tu
 <a name="lady"></a>
 # Lady Damnation
 
-<div align="center">
+<div align="center" markdown="1">
 
 | | |
 |---|---|
@@ -510,7 +510,7 @@ She has minimal combat skills. That is fine — she is not meant to fight.
 <a name="lady-iteron"></a>
 ## Iteron Mark V — What She Flies Now
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/657/render?size=512" alt="Iteron Mark V Gallente Industrial" width="420" />
 
 **Iteron Mark V — Gallente T1 Industrial**
@@ -616,7 +616,7 @@ Right now her Iteron is a soft target. A Transport Ship changes that entirely.
 <a name="lady-br"></a>
 ## Destination — The Viator Blockade Runner
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/12731/render?size=512" alt="Viator Blockade Runner" width="420" />
 
 **Viator — Gallente Blockade Runner (T2)**
@@ -704,7 +704,7 @@ Medium Cargohold Optimization I   x2
 <a name="chronicbomb"></a>
 # chronicbomb
 
-<div align="center">
+<div align="center" markdown="1">
 
 | | |
 |---|---|
@@ -723,7 +723,7 @@ chronicbomb is a **combat pilot built for killing things**. She has maxed projec
 <a name="hurricane-pvp"></a>
 ## Hurricane — Solo PvP Brawler
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/24702/render?size=512" alt="Hurricane Battlecruiser" width="420" />
 
 **Hurricane — Minmatar Battlecruiser**
@@ -817,7 +817,7 @@ Republic Fleet EMP M  — faction ammo for when you need that extra bite
 <a name="drake-pve"></a>
 ## Drake — PvE Mission Runner
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/24698/render?size=512" alt="Drake Battlecruiser" width="420" />
 
 **Drake — Caldari Battlecruiser**
@@ -898,7 +898,7 @@ HAMs need the target within **22 km** to hit properly. If a target moves beyond 
 <a name="vagabond-pvp"></a>
 ## Vagabond — Roaming Kiter
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/11999/render?size=512" alt="Vagabond Heavy Assault Cruiser" width="420" />
 
 **Vagabond — Minmatar Heavy Assault Cruiser (T2)**
@@ -986,7 +986,7 @@ The Vagabond is a **kiting ship**. You do NOT brawl at zero. You maintain distan
 <a name="rapier-tackle"></a>
 ## Rapier — Fleet Tackle
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/11957/render?size=512" alt="Rapier Force Recon" width="420" />
 
 **Rapier — Minmatar Force Recon (T2)**
@@ -1077,7 +1077,7 @@ Two Stasis Webifiers reduce the target's speed by roughly **80–90%**. A battle
 <a name="sleipnir"></a>
 ## Next Goal — Sleipnir
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/22444/render?size=512" alt="Sleipnir Command Ship" width="420" />
 
 **Sleipnir — Minmatar Command Ship (T2)**
@@ -1098,7 +1098,7 @@ The Sleipnir is a Hurricane that has been upgraded in every way — better tank,
 <a name="screams"></a>
 # Screams Eternal
 
-<div align="center">
+<div align="center" markdown="1">
 
 | | |
 |---|---|
@@ -1122,7 +1122,7 @@ Her attributes — Perception 24, Willpower 24 — are the best possible for tra
 <a name="screams-drake"></a>
 ## Drake — What She Flies Now
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/24698/render?size=512" alt="Drake Caldari Battlecruiser" width="420" />
 
 **Drake — Caldari Battlecruiser**
@@ -1246,7 +1246,7 @@ This gives her 2–3 months of productive training without needing to think abou
 <a name="screams-raven"></a>
 ## Destination — The Raven
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/638/render?size=512" alt="Raven Caldari Battleship" width="420" />
 
 **Raven — Caldari Battleship**

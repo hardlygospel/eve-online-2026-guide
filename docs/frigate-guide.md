@@ -126,7 +126,7 @@ T1 frigates cost almost nothing. Fit them cheaply and fight everything. The goal
 <a name="rifter"></a>
 ### Rifter — Minmatar Brawler
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/587/render?size=512" alt="Rifter Minmatar Frigate" width="380" />
 
 **Rifter — Minmatar T1 Frigate**
@@ -199,7 +199,7 @@ Barrage S          — if you need to kite at 10–15 km
 <a name="kestrel"></a>
 ### Kestrel — Caldari Missile Frigate
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/602/render?size=512" alt="Kestrel Caldari Frigate" width="380" />
 
 **Kestrel — Caldari T1 Frigate**
@@ -268,7 +268,7 @@ The Kestrel is a **kiting missile ship** — keep your distance and let missiles
 <a name="merlin"></a>
 ### Merlin — Caldari Shield Brawler
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/603/render?size=512" alt="Merlin Caldari Frigate" width="380" />
 
 **Merlin — Caldari T1 Frigate**
@@ -326,7 +326,7 @@ Blasters require **extremely close range** — Void S works best at under 1 km. 
 <a name="incursus"></a>
 ### Incursus — Gallente Armour Brawler
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/593/render?size=512" alt="Incursus Gallente Frigate" width="380" />
 
 **Incursus — Gallente T1 Frigate**
@@ -388,7 +388,7 @@ Assault Frigates require the racial frigate skill at 5 and Assault Frigates skil
 <a name="wolf"></a>
 ### Wolf — Minmatar Assault Frigate
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/11393/render?size=512" alt="Wolf Minmatar Assault Frigate" width="380" />
 
 **Wolf — Minmatar Assault Frigate (T2)**
@@ -461,7 +461,7 @@ With chronicbomb's skills (Small Autocannon Spec IV, Surgical Strike V):
 <a name="jaguar"></a>
 ### Jaguar — Minmatar Assault Frigate
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/11400/render?size=512" alt="Jaguar Minmatar Assault Frigate" width="380" />
 
 **Jaguar — Minmatar Assault Frigate (T2)**
@@ -518,7 +518,7 @@ EMP S        — swap in when they are webbed and stationary
 <a name="vengeance"></a>
 ### Vengeance — Amarr Assault Frigate
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/11011/render?size=512" alt="Vengeance Amarr Assault Frigate" width="380" />
 
 **Vengeance — Amarr Assault Frigate (T2)**
@@ -577,7 +577,7 @@ Pith X-Type rockets            — faction ammo when you want maximum DPS
 <a name="hawk"></a>
 ### Hawk — Caldari Assault Frigate
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/11382/render?size=512" alt="Hawk Caldari Assault Frigate" width="380" />
 
 **Hawk — Caldari Assault Frigate (T2)**
@@ -643,7 +643,7 @@ Interceptors are not gunships — they are **tackle ships**. Their job is to be 
 <a name="stiletto"></a>
 ### Stiletto — Minmatar Interceptor
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/11202/render?size=512" alt="Stiletto Minmatar Interceptor" width="380" />
 
 **Stiletto — Minmatar Interceptor (T2)**
@@ -703,7 +703,7 @@ The Stiletto's job is tackle — not damage. Your guns are an afterthought.
 <a name="crusader"></a>
 ### Crusader — Amarr Interceptor
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/11200/render?size=512" alt="Crusader Amarr Interceptor" width="380" />
 
 **Crusader — Amarr Interceptor (T2)**

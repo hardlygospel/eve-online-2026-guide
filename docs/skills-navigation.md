@@ -2,7 +2,7 @@
 
 ## 📅 Progression Guide
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/32880/render?size=256" alt="The Venture — every legend started with one ship" width="280" />
 </div>
 
@@ -70,7 +70,7 @@
 
 ## 🖥️ Understanding the UI & HUD
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/587/render?size=256" alt="The Rifter — learn your HUD here" width="280" />
 </div>
 
@@ -146,7 +146,7 @@ Your ship's capacitor, shields, armour, and hull are shown on the HUD circle. Le
 
 ## ⌨️ Essential Shortcuts
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/24698/render?size=256" alt="The Drake — master shortcuts and it becomes unstoppable" width="280" />
 </div>
 
@@ -223,7 +223,7 @@ Memorise these. They will save your ship and your life.
 
 ## 📚 Skills & Skill Planning
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://images.evetech.net/types/29984/render?size=256" alt="The Tengu — the reward for months of training" width="280" />
 </div>
 
